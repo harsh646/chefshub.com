@@ -1,0 +1,28 @@
+body
+{
+	background-image:url("akshay.jpg");
+	text-align: center;
+	color:white;
+}
+p
+{
+	font-size:30px;
+	font-family: ariel;
+	color:red;
+}
+button
+{
+	background-color:black;
+	border:none;
+	color:white;
+	padding:15px;
+	text-align:center;
+	cursor:pointer;
+}
+h3
+{
+	color:black;
+	font-family:ariel;
+	
+
+}

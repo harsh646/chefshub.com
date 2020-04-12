@@ -1,0 +1,50 @@
+body
+{
+	background-image: url("cooking.jpg")
+}
+h1
+{
+	color:black;
+	text-align: center;
+}
+.nav
+{
+	font-size:30px; 
+	background-color:black;
+	width:1520px;
+	height:40px;
+	text-align:center;
+	margin-top:00px;
+
+}
+.active
+{
+	background-color:black;
+	color:white;
+}
+.nav a:hover
+{
+	background-color:grey;
+	color:white;
+}
+p
+{
+	color:white;
+	font-size:30px;
+	background-color:black;
+}
+h2
+{
+	color:red;
+	text-align:center;
+	text-style:underline;
+}
+
+img
+{
+	height:300px;
+	widhth:400px;
+	img-align:center;
+
+}
+
